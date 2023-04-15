@@ -1,5 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/97299075/232230515-473c19ec-bb0f-44ba-87e2-e12462199ab8.png)
-## HealFit
+# ![Logo](https://user-images.githubusercontent.com/97299075/232230515-473c19ec-bb0f-44ba-87e2-e12462199ab8.png)    HealFit
 
 This webapp has been created using a popular Javascript library ReactJs.
 
