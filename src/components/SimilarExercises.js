@@ -22,4 +22,3 @@ const SimilarExercises = ({ targetMuscleExercises, equipmentExercises }) => (
 );
 
 export default SimilarExercises;
- 
