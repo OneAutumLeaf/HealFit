@@ -1,0 +1,23 @@
+To host a website on Google Cloud with AMD instances, we follow these steps:
+
+Firstly, we create a Google Cloud account and set up a project.
+
+Secondly, go to the Compute Engine section in the Google Cloud Console.
+
+Click on the "Create Instance" button to launch a new VM instance.
+
+Under the "Machine type" section, we can select an AMD instance from the list of available machine types.
+
+Then choose the preferred operating system and select a boot disk for the instance.
+
+Configure the networking settings for the instance, including setting up a static IP address.
+
+Now, open the firewall ports required for the web server to allow incoming traffic.
+
+Install and configure the web server software on the instance, such as Apache or NGINX.
+
+Upload the web application files to the instance, either through SSH or using a file transfer protocol (FTP) client.
+
+Once the web app is uploaded, we can test it by navigating to the static IP address assigned to the instance in the web browser.
+
+Finally! The website is now hosted on Google Cloud with an AMD instance.
